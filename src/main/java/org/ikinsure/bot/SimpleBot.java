@@ -1,4 +1,4 @@
-package org.ikinsure.easy.bot;
+package org.ikinsure.bot;
 
 import java.util.Scanner;
 
